@@ -1,0 +1,139 @@
+2016-07-26 11:26:18 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:26:18 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:26:18 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:26:18 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:26:18 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:26:18 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:26:18 ERROR RpcHandler:534 - server caught exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:349)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:112)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:26:36 ERROR ConnectManage:456 - No available server node. All server nodes are down !!!
+2016-07-26 11:28:22 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 11:28:23 ERROR RpcHandler:534 - server caught exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:349)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:112)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 17:08:34 ERROR ConnectManage:456 - No available server node. All server nodes are down !!!
+2016-07-26 17:09:08 ERROR ConnectManage:456 - No available server node. All server nodes are down !!!
+2016-07-26 17:09:54 ERROR RpcHandler:534 - RPC Server handle request error
+java.lang.NullPointerException
+	at com.nettyrpc.server.RpcHandler.handle(RpcHandler.java:60)
+	at com.nettyrpc.server.RpcHandler.access$2(RpcHandler.java:56)
+	at com.nettyrpc.server.RpcHandler$1.run(RpcHandler.java:40)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 17:09:54 ERROR RpcHandler:534 - server caught exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:349)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:112)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:571)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:512)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:426)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:398)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:877)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Unknown Source)
+2016-07-26 19:14:13 ERROR ConnectManage:456 - No available server node. All server nodes are down !!!
+2016-07-26 19:37:16 ERROR ConnectManage:456 - No available server node. All server nodes are down !!!
